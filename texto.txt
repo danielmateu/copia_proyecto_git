@@ -1,2 +1,4 @@
 Aixo es un TEXT
 Ara estic comprovant que passa si modifico el main.
+
+Ara he tornat a entrat al text.txt del main per realitzar un nou canvi per despres fer add, commit i push
