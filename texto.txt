@@ -1,1 +1,1 @@
-Aixo es un TEXT
+Aquest text és el text alternatiu, per comprovar el funcionament de GIT amb GitHUB.
